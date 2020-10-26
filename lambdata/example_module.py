@@ -2,6 +2,7 @@
 import pandas as pd
 import numpy as np
 
+
 FAVORITE_NUMBERS = [77,107.32,55,12,3.14]
 
 
