@@ -8,7 +8,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="lambdata-jrivest2", # Replace with your own username
-    version="0.0.2",
+    version="0.0.3",
     author="jrivest2",
     description="A collection of data science functions",
     long_description=long_description,
