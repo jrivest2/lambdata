@@ -23,7 +23,7 @@ def randomShuffle(df):
         # Add random index to the column
         randIndecies.append(randRow)
         # Remove that option from future indecies
-        indexNums.remove(randrow)
+        indexNums.remove(randRow)
 
     # Add the randomized list to the df as a new column
     df['randIndex'] = pd.Series(randIndecies)
