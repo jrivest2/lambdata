@@ -1,3 +1,0 @@
-twine Username and password(api token):
-username: __token__
-password: pypi-AgENdGVzdC5weXBpLm9yZwIkMzhhNjE5ZmMtOGZiNi00YjBkLTkyOTQtNDBlY2EwMzczZmRkAAIleyJwZXJtaXNzaW9ucyI6ICJ1c2VyIiwgInZlcnNpb24iOiAxfQAABiDaLZdRBegEzKNcsqaX-JeUxamJSCV1gTa8CRjewx_rLQ
