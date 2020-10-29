@@ -4,6 +4,10 @@ import numpy as np
 
 
 FAVORITE_NUMBERS = [77,107.32,55,12,3.14]
+COLORS = ['cyan','teal','mauve','blue','crimson']
+
+def increment(x):
+    return x + 1
 
 
 def df_cleaner(df):
